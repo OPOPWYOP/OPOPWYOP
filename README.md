@@ -65,21 +65,6 @@
 <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=OPOPWYOP" width="auto"></img>
 
 **📫 How to Reach me:**
-<p align="left">
-<a href="https://twitter.com/noname85071193" target="blank"><img align="center" src="https://raw.githubusercontent.com/OPOPWYOP/OPOPWYOP/master/assets/twitter.svg" alt="OPOPWYOP" height="30" width="30" /></a>
-<a href="https://linkedin.com/in/andrej-marinchenko-0445b7214" target="blank"><img align="center" src="https://raw.githubusercontent.com/OPOPWYOP/OPOPWYOP/master/assets/linkedin.svg" alt="OPOPWYOP" height="30" width="30" /></a>
-<a href="mailto:andrej.marinchenko@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/OPOPWYOP/OPOPWYOP/master/assets/gmail.svg" alt="Gmail" height="30" width="30" /></a>
-<a href="https://api.whatsapp.com/send?phone=+375333333355" alt="Connect on Whatsapp"> <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" /> </a>
-</p>
-
-<div align="center">
-<summary>Trophy: Github Profile Trophy</summary>
-</div>
-
-<p align="center"> 
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=OPOPWYOP" alt="OPOPWYOP" /></a>
-</p>
-
 
 
 
@@ -167,43 +152,3 @@ width="30%">
 counting of visitors to this page in this section started from May 8, 2022
 <a href="http://s01.flagcounter.com/more/ap7"><img src="https://s01.flagcounter.com/countxl/ap7/bg_FFFFFF/txt_000000/border_CCCCCC/columns_8/maxflags_250/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
 
-
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=OPOPWYOP/OPOPWYOP&type=Date)](https://star-history.com/#OPOPWYOP/OPOPWYOP&Date)
-
-
-
-### Profile Views
-counting of visitors to this page in this section started from June 12, 2022
-
-![](https://count.getloli.com/get/@OPOPWYOP.github.readme)
-</br>
-
-[MIT](LICENSE)
-
-
-</p>
-
----
-  *If you liked my profile, you can Star ⭐ the repo and if you want to use this template you can Fork it and can use.* 
----
-Would you ike to meet me?
-
-If you want to contribute to any of my repositories, feel free to submit PRs, issues and email me. Pick a slot if you'd like to meet me and chat about proposals and ideas - but make sure to describe the agenda
-- 👋 Hi, I’m @OPOPWYOP
-- 👀 I’m interested in Blockchain
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on AI,Data Science,Contract,Stocks, bonds, funds, futures, indices, foreign exchange, etc
-- 📫 How to reach me bilibili0349@foxmail.com
-
-<!---
-OPOPWYOP/OPOPWYOP is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
----
-  *I use an automatic subscription control system. Thus, everyone who subscribes to me, I will subscribe to those and I will respond, and vice versa, I will remove all those who unsubscribe from me from among those who should be followed.* 
----
-
-![](assets/Bottom_down.svg)

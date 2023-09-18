@@ -1,15 +1,4 @@
-
-
 <!-- China - My Home-->
-  
- ```geojson
-{
- "type": "FeatureCollection",
- "features": [
- {
-  "type": "FeatureCollection",
-  "features": [
-  <!-- China - My Home-->
   
  ```geojson
 {
@@ -41,17 +30,5 @@
 }
 
 ```
-
-
-
-  ]
-}
- ]
-}
-
-```
-
-
-
 
 
